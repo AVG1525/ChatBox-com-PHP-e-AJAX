@@ -1,0 +1,33 @@
+#mensagens{
+	width:500px;
+	height:300px;
+	max-height:300px;
+	overflow:auto;
+	overflow-x:hidden;
+	border:1px solid #ddd;
+	border-radius:3px;
+	padding:8px;
+	margin:4px;
+}
+
+input[type='text']{
+	display:block;
+	width:500px;
+	font-size:14px;
+	padding:8px;
+	margin:4px;
+	border:1px solid #ddd;
+	border-radius:3px;
+	outline:0;
+	color:#6C7A89;
+}
+
+p{color:#6C7A89;
+	text-align:left;
+	word-wrap:break-all;
+	font-family:arial, sans-serif;
+}
+
+b{
+	cursor:pointer;
+}
